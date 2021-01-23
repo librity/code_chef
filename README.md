@@ -1,2 +1,3 @@
-# code_chef
+# CodeChef
+
 All my CodeChef solutions.
